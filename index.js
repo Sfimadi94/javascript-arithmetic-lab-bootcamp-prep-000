@@ -1,4 +1,5 @@
-var addition = function(add){
-  return add + 5
-}
+var a,b 
 
+function add(){
+  return a + b
+}
