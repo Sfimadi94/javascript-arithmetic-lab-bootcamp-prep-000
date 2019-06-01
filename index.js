@@ -1,3 +1,3 @@
-function add(5, 6) {
-  console.log(5 + 6)
+function add('5', '6') {
+  return 5 + 6
 }
