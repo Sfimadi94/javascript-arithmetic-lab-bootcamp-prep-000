@@ -1,4 +1,4 @@
-var add = function(add){
-  return add
+var addition = function(add){
+  return add + 5
 }
 
