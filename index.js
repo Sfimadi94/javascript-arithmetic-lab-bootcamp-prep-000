@@ -1,5 +1,7 @@
-function add(5, 6) {
-  return 5 + 6
+var number = 10
+
+function add5(){
+  number += 5
 }
 
-add()
+add5()
