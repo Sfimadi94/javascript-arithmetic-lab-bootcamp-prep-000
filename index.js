@@ -4,4 +4,6 @@ function add5() {
   number += 5
 }
 
-function subtract5()
+function subtract5() {
+  number -=2
+}
