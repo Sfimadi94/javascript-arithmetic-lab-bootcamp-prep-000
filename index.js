@@ -1,8 +1,6 @@
-var a = 10
-var b = 20
-
 function add() {
-  var a = 
+  var a = 1000
+  var b = 28
   return a + b
   
 }
